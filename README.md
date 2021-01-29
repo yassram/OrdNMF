@@ -25,7 +25,7 @@ The goal of this repository is to check the **reproducibility of the results** o
 </li>
 </ul>
 
-## Ressources:
+## Ressources
 #### The "Ordinal Non-negative Matrix Factorization for Recommendation" **paper**: 
 - Olivier Gouvert, Thomas Oberlin, Cédric Févotte
 - https://arxiv.org/abs/2006.01034 
