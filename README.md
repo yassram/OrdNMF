@@ -11,8 +11,8 @@ The goal of this repository is to check the **reproducibility of the results** o
 
 ## Journal of experimentations
 <ul>
-  <li><a href="https://github.com/yassram/OrdNMF/wiki/OrdNMF-Reproducibility">OrdNMF Reproducibility</a><\li>
-  <li><a href="https://github.com/yassram/OrdNMF/wiki/OrdNMF-Reproducibility">Journal of experimentation</a><\li>
+  <li><a href="https://github.com/yassram/OrdNMF/wiki/OrdNMF-Reproducibility">OrdNMF Reproducibility</a>
+  <li><a href="https://github.com/yassram/OrdNMF/wiki/OrdNMF-Reproducibility">Journal of experimentation</a>
     <ul>
       <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-0">Entry 0</a> - 19/12/2020</li>
       <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-1">Entry 1</a> - 20/12/2020</li>
@@ -21,7 +21,7 @@ The goal of this repository is to check the **reproducibility of the results** o
       <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-4---Results-table">Entry 4 - Results-table</a> - 19/12/2020</li>
       <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-5">Entry 5</a> - 19/12/2020</li>
     </ul>
-  <li><a href="https://github.com/yassram/OrdNMF/wiki/OrdNMF-Reproducibility">Experimentation report</a><\li>
+  <li><a href="https://github.com/yassram/OrdNMF/wiki/OrdNMF-Reproducibility">Experimentation report</a>
 </li>
 </ul>
 
