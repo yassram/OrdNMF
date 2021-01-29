@@ -19,7 +19,6 @@ The goal of this repository is to check the **reproducibility of the results** o
       <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-2">Entry 2</a> - 19/12/2020</li>
       <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-3---graphics">Entry 3 - Graphics</a> - 19/12/2020</li>
       <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-4---Results-table">Entry 4 - Results-table</a> - 19/12/2020</li>
-      <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-5">Entry 5</a> - 19/12/2020</li>
     </ul>
   <li><a href="https://github.com/yassram/OrdNMF/wiki/OrdNMF-Reproducibility">Experimentation report</a>
 </li>
