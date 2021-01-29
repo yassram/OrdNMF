@@ -14,11 +14,11 @@ The goal of this repository is to check the **reproducibility of the results** o
   <li><a href="https://github.com/yassram/OrdNMF/wiki/OrdNMF-Reproducibility">OrdNMF Reproducibility</a>
   <li><a href="https://github.com/yassram/OrdNMF/wiki/OrdNMF-Reproducibility">Journal of experimentation</a>
     <ul>
-      <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-0">Entry 0</a> - 19/12/2020</li>
-      <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-1">Entry 1</a> - 20/12/2020</li>
-      <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-2">Entry 2</a> - 19/12/2020</li>
-      <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-3---graphics">Entry 3 - Graphics</a> - 19/12/2020</li>
-      <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-4---Results-table">Entry 4 - Results-table</a> - 19/12/2020</li>
+      <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-0">Entry 0</a> - 25/01/2021</li>
+      <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-1">Entry 1</a> - 26/01/2021</li>
+      <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-2">Entry 2</a> - 27/01/2021</li>
+      <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-3---graphics">Entry 3 - Graphics</a> - 28/01/2021</li>
+      <li><a href="https://github.com/yassram/OrdNMF/wiki/Entry-4---Results-table">Entry 4 - Results-table</a> - 29/01/2021</li>
     </ul>
   <li><a href="https://github.com/yassram/OrdNMF/blob/master/report/reproducibility_report.pdf">Experimentation report</a>
 </li>
