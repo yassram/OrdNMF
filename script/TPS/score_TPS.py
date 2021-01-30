@@ -7,7 +7,7 @@
 import os
 import glob
 import pandas as pd
-import cPickle as pickle
+import pickle as pickle
 import numpy as np
 import sys
 

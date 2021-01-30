@@ -26,7 +26,7 @@ import scipy.special as special
 import scipy.sparse as sparse
 import os
 import time
-import cPickle as pickle
+import pickle as pickle
 import sys
 
 class OrdNMF():

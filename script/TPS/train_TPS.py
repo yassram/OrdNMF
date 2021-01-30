@@ -11,7 +11,7 @@ sys.path.append("../../model/dcPF")
 sys.path.append("../../function")
 
 import os
-import cPickle as pickle
+import pickle as pickle
 import numpy as np
 
 from OrdNMF import OrdNMF

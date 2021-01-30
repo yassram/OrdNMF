@@ -5,7 +5,7 @@
 """
 
 import os
-import cPickle as pickle
+import pickle as pickle
 import scipy.sparse as sparse
 import numpy as np
 import sys

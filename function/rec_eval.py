@@ -117,7 +117,7 @@ def map_at_k(train_data, heldout_data, U, V, batch_users=5000, k=100, mu=None,
 def user_idx_generator(n_users, batch_users):
     ''' helper function to generate the user index to loop through the dataset
     '''
-    for start in xrange(0, n_users, batch_users):
+    for start in range(0, n_users, batch_users):
         end = min(n_users, start + batch_users)
         yield slice(start, end)
 
@@ -277,7 +277,7 @@ def MAP_at_k_batch(train_data, heldout_data, Et, Eb, user_idx, mu=None, k=100,
     idx_topk = idx_topk_part[np.arange(batch_users)[:, np.newaxis], idx_part]
 
     aps = np.zeros(batch_users)
-    for i, idx in enumerate(xrange(user_idx.start, user_idx.stop)):
+    for i, idx in enumerate(range(user_idx.start, user_idx.stop)):
         actual = heldout_data[idx].nonzero()[1]
         if len(actual) > 0:
             predicted = idx_topk[i]

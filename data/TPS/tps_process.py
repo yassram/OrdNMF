@@ -15,7 +15,7 @@ import numpy as np
 import pandas as pd
 import os
 import scipy.sparse as sparse
-import cPickle as pickle
+import pickle as pickle
 import sqlite3
     
 TPS_DIR = 'TPS'

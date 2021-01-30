@@ -10,7 +10,7 @@ sys.path.append("../../model/OrdNMF")
 sys.path.append("../../function")
 
 import os
-import cPickle as pickle
+import pickle as pickle
 
 from OrdNMF import OrdNMF
 
